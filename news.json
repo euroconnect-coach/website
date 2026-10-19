@@ -1,0 +1,23 @@
+[
+  {
+    "id": "n1",
+    "title": "Nouvelle ligne Bruxelles – Prague",
+    "cat": "Réseau",
+    "ts": 1789862400000,
+    "body": "Dès cet automne, une ligne de nuit relie Bruxelles à Prague avec départ quotidien du quai 1."
+  },
+  {
+    "id": "n2",
+    "title": "L’application Euro’Connect est disponible",
+    "cat": "Application",
+    "ts": 1788566400000,
+    "body": "Réservez, ajoutez vos options et embarquez avec votre QR code depuis votre smartphone."
+  },
+  {
+    "id": "n3",
+    "title": "Plus de départs vers Londres",
+    "cat": "Services",
+    "ts": 1787011200000,
+    "body": "Six départs quotidiens désormais proposés en direction de Londres."
+  }
+]
